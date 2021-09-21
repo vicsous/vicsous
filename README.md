@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicsous
 - 👀 I’m interested in building amazing UI
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on any kind of React project
 - 📫 How to reach me vicsous@protonmail.com
 
